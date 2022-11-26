@@ -7,7 +7,7 @@
 
 ->Just write the following
 
-->Pkg update
+->pkg update
 
 ->pkg install git
 
@@ -15,7 +15,8 @@
 
 ->cd TermuxNspautoUpdater
 
-->Bash autoupdater.sh
+->bash autoupdater.sh
 
 And Done
+
 
